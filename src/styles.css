@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.list-non-bullet {
+  /* text-align: center; */
+  list-style: none;
+  padding-top: 2rem;
+}
+.list-inline {
+  display: inline;
+  padding: 0rem 0.5rem;
+  /* padding-inline-start:0px; */
+}
+hr {
+  margin-top: 2rem;
+  max-width: 600px;
+}
