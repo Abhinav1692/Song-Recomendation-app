@@ -38,12 +38,12 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>🎵goodmusic</h1>
+      <h1 style={{ color: "purple" }}>🎵 goodmusic</h1>
       <div>
-        <p style={{ fontWeight: "bold" }}>
+        <h3 style={{ fontWeight: "bold" }}>
           Checkout my all playlists of songs. Select any one of them and fall in
           love with music.
-        </p>
+        </h3>
 
         {/* <ul className="list-non-bullet">
         <li className="list-inline">
